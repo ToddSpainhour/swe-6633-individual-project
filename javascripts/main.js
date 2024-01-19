@@ -1,0 +1,1 @@
+console.log("if you see this than your JavaScript is connected");
